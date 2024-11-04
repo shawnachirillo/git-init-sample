@@ -1,1 +1,1 @@
-# git-init-sample
+prework-study-guide
